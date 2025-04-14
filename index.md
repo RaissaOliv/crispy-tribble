@@ -9,3 +9,7 @@
 var myApple = "i have an apple!"
 print(myApple)
 ``` 
+
+- [x] I have a pen
+- [x] I have an apple
+- [ x] applepen
